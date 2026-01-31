@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+httpx
+cryptography
+pydantic
+python-dotenv
+uvicorn==0.27.0
+pydantic==2.6.0

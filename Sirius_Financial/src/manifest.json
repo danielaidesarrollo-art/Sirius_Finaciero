@@ -1,0 +1,13 @@
+{
+    "project_name": "Daniel_AI_Sirius_Financial",
+    "project_id": "00000000-0000-0000-0000-000000000111",
+    "compliance_level": "L3",
+    "features": {
+        "banking_audit": true,
+        "fiscal_compliance": true,
+        "encryption": true
+    },
+    "contacts": [
+        "sirius-fin-dev@daniel.ai"
+    ]
+}
